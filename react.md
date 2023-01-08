@@ -1,0 +1,9 @@
+2023-01-08
+so want to learn how react works under the hood, and how i can create my own react!
+
+because, by doing this i will be able to improve things in my ongoing project!
+
+for now decided to follow this:
+https://pomb.us/build-your-own-react/
+
+
