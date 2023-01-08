@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "creative coding.md",
+                "file": "react.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creative coding.md",
+                "file": "react.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "creative coding.md",
+                "file": "react.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creative coding.md"
+                "file": "react.md"
               }
             }
           }
@@ -160,7 +160,7 @@
   },
   "active": "d47b16ab81dead19",
   "lastOpenFiles": [
-    "react.md",
-    "creative coding.md"
+    "creative coding.md",
+    "react.md"
   ]
 }

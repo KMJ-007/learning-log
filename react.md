@@ -6,4 +6,4 @@ because, by doing this i will be able to improve things in my ongoing project!
 for now decided to follow this:
 https://pomb.us/build-your-own-react/
 
-
+i know they maintain two dom tree, compare the changes, and only update the changed component
