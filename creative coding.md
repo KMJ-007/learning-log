@@ -1,5 +1,6 @@
 2023-01-09
-
+- frameRate function is useful thing to rerun the code in whichever frame you like
+- speedruned the basic things, from varibles to functions, if else statment, now learning about animation
 
 2023-01-08
 so there are two options

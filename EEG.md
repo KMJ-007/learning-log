@@ -1,0 +1,6 @@
+2023-01-09
+- understood what are we actually building, and how much more resoruces and team will require!
+- first thing i got clear is, by going in the direction of therphy, we know we will never achive 100% accuracy, so going through all doctor drama is not worth it, like if someone is having sucidal thoughts, and our system fails to detect, and by listning to music, this guy got more depressed, and did sucide, so this kind of things can happen
+- i like the other pivot of the idea, like the person wears the headset, and the data goes through it, and the person is now creating music by his emotion, this works because, the person himself doesn't know most of the time, what mood is he, he is not 100% sure, so by even we are able to detect small emotion, and genreate the music, that can be great magic, like i am making music from my emotion!
+- need to read isac assimov, left after reading 1st chapter, have to again pick it up!
+- talked with the hardware guyes also, they are ready to help, but first i need to do a research, what exactly are our requirements, so my next task is to do hardware level research, which hardware is required to work for eeg, because openbci also has so many boards, and all of them are different for different use cases!
