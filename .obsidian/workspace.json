@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44ced97e73c197b0",
+        "id": "f9f68a399524f896",
         "type": "tabs",
         "children": [
           {
-            "id": "d47b16ab81dead19",
+            "id": "fa09c76ca666b13b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEG.md",
+                "file": "creative coding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEG.md",
+                "file": "creative coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEG.md",
+                "file": "creative coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEG.md"
+                "file": "creative coding.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d47b16ab81dead19",
+  "active": "fa09c76ca666b13b",
   "lastOpenFiles": [
-    "react.md",
     "EEG.md",
+    "javascript.md",
+    "Typescript.md",
+    "react.md",
     "creative coding.md"
   ]
 }

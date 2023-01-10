@@ -1,3 +1,8 @@
+2023-01-11
+- made this today and learned about animation
+![[loop.gif]]
+- also made this repo, view [here](https://github.com/KMJ-007/sketches)
+
 2023-01-09
 - frameRate function is useful thing to rerun the code in whichever frame you like
 - speedruned the basic things, from varibles to functions, if else statment, now learning about animation
