@@ -1,4 +1,7 @@
 2023-01-11
+- learned about inputs, from mouse to keyboard, want to add some kind of physical interaction to my sketch, will figur that outg
+
+2023-01-11
 - made this today and learned about animation
 ![[loop.gif]]
 - also made this repo, view [here](https://github.com/KMJ-007/sketches)
