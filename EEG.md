@@ -1,3 +1,23 @@
+
+2023-01-12
+- EEG signals have two types: scalp EEG and intracranial EEG (iEEG). Scalp EEG signals are usually collected with electrodes placed on the scalp using some sort of conductive gel after treating the scalp area with light abrasion in order to decrease the impedance resulting from dead skin cells.
+-  in iEEG, electrodes are placed directly on the exposed surface of the brain during a surgery to record electrical activity from the cerebral cortex.
+- Most of the research work in the field of seizure detection depends on scalp EEG signals, which are acquired with non-invasive techniques
+- EEG signals are in general non-linear and non-stationary. So, there is a difficulty to characterize different activities of EEG signals with certain mathematical models. (Non-linear means the underlying model is a non-linear ODE. Non-stationary means the time evolution operator is time-dependant) (reference: https://asp-eurasipjournals.springeropen.com/articles/10.1186/1687-6180-2014-183?curius=373)
+- nice book : https://www.ncbi.nlm.nih.gov/books/NBK390346/
+- best thing i found so far, all the application: http://learn.neurotechedu.com/applications/?curius=373
+- have the application listed out, and references also, first time i got to know that there is something word called Neurogaming, and there is whole store for the games([https://store.neurosky.com/collections/apps/games](https://store.neurosky.com/collections/apps/games "https://store.neurosky.com/collections/apps/games"))
+- have the application listed out, and references also, first time i got to know that there is something word called Neurogaming, and there is whole store for the games([https://store.neurosky.com/collections/apps/games](https://store.neurosky.com/collections/apps/games "https://store.neurosky.com/collections/apps/games"))
+- this is good [https://neurowear.com/necomimi/](https://neurowear.com/necomimi/ "https://neurowear.com/necomimi/") they have actually made end user headset which looks good
+- found the video which explains our thing [https://www.youtube.com/watch?v=JyiXQgj_Nfk&t=15s](https://www.youtube.com/watch?v=JyiXQgj_Nfk&t=15s "https://www.youtube.com/watch?v=JyiXQgj_Nfk&t=15s")
+- brain disco: [https://neurowear.com/braindisco/](https://neurowear.com/braindisco/ "https://neurowear.com/braindisco/")
+- this thing is reverse, they are playing music on subject, and using eeg signals, they are trying to recreate the same melody using eeg , [https://www.frontiersin.org/articles/10.3389/fnins.2021.673401/full?curius=3](https://www.frontiersin.org/articles/10.3389/fnins.2021.673401/full?curius=3 "https://www.frontiersin.org/articles/10.3389/fnins.2021.673401/full?curius=3")
+- ![[music to eeg.png]]
+- basic understanding of brain waves: [https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain?s=r&curius=2003,1346](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain?s=r&curius=2003,1346 "https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain?s=r&curius=2003,1346") explains how brain wave works
+**link i need to explore more**:
+- creativity with eeg: https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01315/full?curius=1274
+- need to deep dive into this: https://www.neuroelectrics.com/blog/2014/12/18/eeg-signal-processing-for-dummies/
+
 2023-01-10
 - https://neurosky.com/biosensors/eeg-sensor/
 - we first need to finalise hardware requirements with costing in detail(by end of this week),

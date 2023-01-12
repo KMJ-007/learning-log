@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc2517edf98e2037",
+        "id": "f381906b24398403",
         "type": "tabs",
         "children": [
           {
-            "id": "81eb8b59f495c830",
+            "id": "ead6c72e645cd3ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "creative coding.md",
+                "file": "EEG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creative coding.md",
+                "file": "EEG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "creative coding.md",
+                "file": "EEG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creative coding.md"
+                "file": "EEG.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81eb8b59f495c830",
+  "active": "ead6c72e645cd3ff",
   "lastOpenFiles": [
+    "images/music to eeg.png",
+    "EEG.md",
+    "creative coding.md",
     "trpc.md",
     "edge functions.md",
     "Astro.md",
     "cloudflare.md",
     "Graphs.md",
     "react.md",
-    "creative coding.md",
-    "EEG.md",
-    "javascript.md",
-    "Typescript.md"
+    "javascript.md"
   ]
 }

@@ -1,5 +1,5 @@
 2023-01-11
-- learned about inputs, from mouse to keyboard, want to add some kind of physical interaction to my sketch, will figur that outg
+- learned about inputs, from mouse to keyboard, want to add some kind of physical interaction to my sketch, will figur that out
 
 2023-01-11
 - made this today and learned about animation
