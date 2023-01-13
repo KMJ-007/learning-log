@@ -1,4 +1,33 @@
+2023-01-13
+- analysis of EEG signals:
 
+https://www.neuroelectrics.com/blog/2014/12/18/eeg-signal-processing-for-dummies/
+
+-   Alpha waves (8-13 Hz): These are typically seen when a person is in a relaxed, awake state with closed eyes. They are thought to be associated with visual imagery and relaxation.
+    
+-   Beta waves (13-30 Hz): These are typically seen when a person is in a state of alertness and attention. They are thought to be associated with active thinking, problem-solving and decision making.
+    
+-   Theta waves (4-7 Hz): These are typically seen during light sleep, deep relaxation, and meditative states. They are thought to be associated with memory and emotion.
+    
+-   Delta waves (0.5-4 Hz): These are typically seen during deep sleep. They are thought to be associated with restorative processes such as tissue repair and growth.
+    
+-   Gamma waves (30-100 Hz): Gamma waves are associated with high-level information processing, such as perception and consciousness.
+
+Some studies suggest that theta and alpha waves are associated with positive emotions and relaxation, while beta and gamma waves are associated with negative emotions and arousal. Additionally, some studies suggest that the coherence between different brain regions, as well as the relative power of different frequency bands, may be associated with different emotions.
+
+It's also worth noting that studies have found that different emotions are associated with different patterns of activity in different brain regions, and that different emotions may be characterized by different combinations of brain waves.
+
+- Some of the main regions of the brain that have been associated with different emotions include:
+
+-   The amygdala: This small almond-shaped structure is located in the temporal lobes of the brain and is thought to be involved in the processing of emotions such as fear and anxiety.
+    
+-   The ventromedial prefrontal cortex (vmPFC): This region of the brain is located in the front of the brain, and is thought to be involved in the regulation of emotions, particularly positive emotions such as happiness and pleasure.
+    
+-   The anterior cingulate cortex (ACC): This region of the brain is located in the front of the brain and is thought to be involved in the regulation of emotions, particularly negative emotions such as anger and sadness.
+    
+-   The insula: This region of the brain is located deep in the cerebral cortex and is thought to be involved in the processing of emotions such as disgust and empathy.
+    
+-   The hippocampus: This region of the brain is located in the medial temporal lobes, and is thought to be involved in memory formation and recall.
 2023-01-12
 - EEG signals have two types: scalp EEG and intracranial EEG (iEEG). Scalp EEG signals are usually collected with electrodes placed on the scalp using some sort of conductive gel after treating the scalp area with light abrasion in order to decrease the impedance resulting from dead skin cells.
 -  in iEEG, electrodes are placed directly on the exposed surface of the brain during a surgery to record electrical activity from the cerebral cortex.

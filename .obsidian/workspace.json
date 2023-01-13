@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f381906b24398403",
+        "id": "4987e7944a6e97c7",
         "type": "tabs",
         "children": [
           {
-            "id": "ead6c72e645cd3ff",
+            "id": "23f0ab32ec179e18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ead6c72e645cd3ff",
+  "active": "23f0ab32ec179e18",
   "lastOpenFiles": [
-    "images/music to eeg.png",
+    "Astro.md",
     "EEG.md",
+    "cellular automaton.md",
+    "webrtc.md",
+    "images/music to eeg.png",
     "creative coding.md",
     "trpc.md",
     "edge functions.md",
-    "Astro.md",
     "cloudflare.md",
-    "Graphs.md",
-    "react.md",
-    "javascript.md"
+    "Graphs.md"
   ]
 }
