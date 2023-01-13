@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87bec6cade0756e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analog signals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEG.md",
+                "file": "Analog signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEG.md",
+                "file": "Analog signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEG.md"
+                "file": "Analog signals.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23f0ab32ec179e18",
+  "active": "87bec6cade0756e0",
   "lastOpenFiles": [
-    "Astro.md",
     "EEG.md",
+    "Astro.md",
     "cellular automaton.md",
     "webrtc.md",
     "images/music to eeg.png",
