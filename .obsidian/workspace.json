@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4987e7944a6e97c7",
+        "id": "d68c12314cf220c0",
         "type": "tabs",
         "children": [
           {
-            "id": "23f0ab32ec179e18",
+            "id": "d4304a19e2a0752c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "87bec6cade0756e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analog signals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analog signals.md",
+                "file": "EEG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analog signals.md",
+                "file": "EEG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analog signals.md"
+                "file": "EEG.md"
               }
             }
           }
@@ -159,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87bec6cade0756e0",
+  "active": "d4304a19e2a0752c",
   "lastOpenFiles": [
     "EEG.md",
+    "Analog signals.md",
     "Astro.md",
     "cellular automaton.md",
     "webrtc.md",
@@ -169,7 +157,6 @@
     "creative coding.md",
     "trpc.md",
     "edge functions.md",
-    "cloudflare.md",
-    "Graphs.md"
+    "cloudflare.md"
   ]
 }
