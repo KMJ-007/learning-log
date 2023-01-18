@@ -5,6 +5,7 @@ question: basic metric data need ?
 question: can we use existing hardware in this project?
 - 2. like in case existing hardware, VR can catch the EEG, but still it is in the development
 - ![[eeg-vr.png]]
+- like we can use headphone to modify it(idea by nishq)
 - in somekind of sensor or something, from apple watch, we can only get ecg and nuero feedback data, although we found the most compact eeg (https://mentalab.com/mobile-eeg/)
 question:there are many levels to this data. a. we first need to understand what kind of different neuro waves are there b. what can be measured by the present sensors. c. what waves are related to what kind of processes & emotions
 - there are mainly raw data which comes from the electrodes, more the electrodes we have, we get more data, after proccessing it(converting it from analog to digital and removing the noise and amplifying), after it we get alpha, beta, gamma and thetha, this are stages, jo frequency ke hisab se fiter hota hai 
@@ -12,7 +13,7 @@ question:there are many levels to this data. a. we first need to understand what
 - for our project following placments are useful for us![[eeg-electordes position.png]]
 Abstract:
 - we are trying to create music accoding to whatever the person is thinking or feeling at the moment, like if he is not feeling happy then he can't generate happy music, what he thinks or feels it is transfomed in to music
-- till date, we have figured out what placments of electroeds will be useful for us, we will in the basic one need 4 channel headset, and for better data and other accuracy 8-channel will be bset, in 4-channel the muse headset fits the best, for 8-channel one emotive headset is the best, this is on the based on the other people have used in their research, the muse one covers the most electrodes placments we wants, emotive one also does that, on the custome side of headset, we can go for the eeg cap, which gives freedome of using any electrodes placment we want, but it is expensive but highly customisable, and it has learning curve comapre to other already ready to use headset availble headset, so i think we should go with ready made headset!
+- till date, we have figured out what placments of electroeds will be useful for us, we will in the basic one need 4 channel headset, and for better data and other accuracy 8-channel will be bset, in 4-channel the muse headset fits the best, for 8-channel one emotive headset is the best, this is on the based on the other people have used in their research, the muse one covers the most electrodes placments we wants, emotive one also does that, on the custome side of headset, we can go for the eeg cap, which gives freedome of using any electrodes placment we want, but it is expensive but highly customisable, and it has learning curve comapre to other already ready to use headset availble headset, so i think we should go with ready made headse for the research!
 2023-01-16
 - creating music using brain signals: https://www.hindawi.com/journals/cin/2010/267671/
 - i don't think we need ecg data, it may be helpful, but alone eeg can do the work
