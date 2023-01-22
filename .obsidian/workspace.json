@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae0c792fdef17f77",
+        "id": "3115c9e38aabe204",
         "type": "tabs",
         "children": [
           {
-            "id": "82c8d43cb54689c4",
+            "id": "baa0be43693c3c67",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82c8d43cb54689c4",
+  "active": "baa0be43693c3c67",
   "lastOpenFiles": [
     "EEG.md",
+    "nix.md",
+    "merkle tree.md",
     "Analog signals.md",
     "Astro.md",
     "cellular automaton.md",
     "webrtc.md",
     "images/music to eeg.png",
     "creative coding.md",
-    "trpc.md",
-    "edge functions.md",
-    "cloudflare.md"
+    "trpc.md"
   ]
 }
