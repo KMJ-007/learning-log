@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3115c9e38aabe204",
+        "id": "50b70e5d7f64e1fb",
         "type": "tabs",
         "children": [
           {
-            "id": "baa0be43693c3c67",
+            "id": "10288d6811974018",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/EQJavascript/ch-6.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/EQJavascript/ch-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/EQJavascript/ch-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/EQJavascript/ch-6.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baa0be43693c3c67",
+  "active": "10288d6811974018",
   "lastOpenFiles": [
     "EEG.md",
     "nix.md",
