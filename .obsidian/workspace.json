@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ce128d836361f6",
+        "id": "c3bcdc3b414dc4a3",
         "type": "tabs",
         "children": [
           {
-            "id": "0062e0a50695fc90",
+            "id": "0b4c496e2a1fb8a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux kernel programming.md",
+                "file": "ideas.txt.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux kernel programming.md",
+                "file": "ideas.txt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux kernel programming.md",
+                "file": "ideas.txt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux kernel programming.md"
+                "file": "ideas.txt.md"
               }
             }
           }
@@ -154,28 +154,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0062e0a50695fc90",
+  "active": "0b4c496e2a1fb8a2",
   "lastOpenFiles": [
-    "Pasted image 20230508121403.png",
-    "Pasted image 20230508114537.png",
-    "Pasted image 20230508114530.png",
+    "draft-AI hackathon blog.md",
+    "templete/dropdown.md",
+    "ideas.txt.md",
+    "templete",
+    "creative coding.md",
+    "EQJavascript/ch-6.md",
+    "javascript.md",
+    "Untitled.canvas",
+    "TTDOM.md",
+    "Typescript.md",
+    "webrtc.md",
+    "webAssembly.md",
+    "trpc.md",
+    "thought dump file.md",
     "SRIP.md",
+    "smart-agent.md",
+    "react.md",
+    "Project ideas or stream of thoughts.md",
+    "nix.md",
+    "local first software.md",
+    "Graphs.md",
     "linux kernel programming.md",
+    "merkle tree.md",
+    "EEG.md",
+    "edge functions.md",
+    "cloudflare.md",
+    "cellular automaton.md",
+    "Astro.md",
+    "images/watchdog-linux-kernel.png",
+    "images/oop.png",
+    "images/linux-kernel-qa.png",
+    "images/linux-kernel-qa-2.png",
     "images/kernel.png",
     "IMG_5354.heic",
-    "local first software.md",
-    "smart-agent.md",
-    "Project ideas or stream of thoughts.md",
-    "webAssembly.md",
-    "notes/EQJavascript/ch-6.md",
-    "EEG.md",
-    "nix.md",
-    "merkle tree.md",
-    "Analog signals.md",
-    "Astro.md",
-    "cellular automaton.md",
-    "webrtc.md",
-    "images/music to eeg.png",
-    "creative coding.md"
+    "images/music to eeg.png"
   ]
 }

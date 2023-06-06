@@ -42,8 +42,8 @@ for removing
 
 rmmode
 
-![[Pasted image 20230508114530.png]]
-![[Pasted image 20230508114537.png]]
+![[linux-kernel-qa.png]]
+![[linux-kernel-qa-2.png]]
 
 
 
@@ -56,7 +56,7 @@ TI-A15 MPU board
 
 printk is a C function from the Linux kernel interface that prints messages to the kernel log. It accepts a string parameter called the format string, which specifies a method for rendering an arbitrary number of varied data type parameter into a string. The string is then printed to the kernel log.
 
-![[Pasted image 20230508121403.png]]
+![[watchdog-linux-kernel.png]]
 
 question:
 
