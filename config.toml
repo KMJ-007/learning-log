@@ -13,7 +13,7 @@ enableGitInfo = true
   BookRepo = 'https://github.com/KMJ-007/learning-log'
 
   # 'Edit this page' links
-  BookEditPath = 'edit/master'
+  BookEditPath = 'edit/main'
   
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
