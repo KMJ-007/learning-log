@@ -34,7 +34,7 @@ jobs:
     steps:
       - name: Install Hugo CLI
         run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass Embedded
         run: sudo snap install dart-sass-embedded
@@ -46,7 +46,8 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+        run: |
+          [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -56,16 +57,15 @@ jobs:
           hugo \
             --minify \
             --theme hugo-book
-      - uses: docker://pandoc/latex:2.16.2
-      with:
-        args: --output=public/docs/Karan's-Notes.pdf --resource-path=.:./content:./content/docs/images --toc ${{ env.FILELIST }} .pandoc/metadata_en.txt
-
+      - name: Generate PDF
+        run: |
+          pandoc -s -o public/docs/Karan's-Notes.pdf content/*.md
       - name: Copy images
         run: cp -r ./content/docs/images public/docs/
-        
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
+          name: public
           path: ./public
 
   # Deployment job
