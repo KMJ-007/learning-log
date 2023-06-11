@@ -3,7 +3,7 @@
 ## building my own  ray tracer 
  - i am going to study computer graphics in the 7th sem, why not create ray tracer and learn more about it
  - learning more about how computer graphics works 
- - [cool example](https://twitter.com/evannlinn/status/1656872917043478528?s=20)
+{{< tweet "https://twitter.com/evannlinn/status/1656872917043478528?s=20" >}}
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 ## frontend framework/library for learning how DOM and rendering works
-- checkout for more info [[TTDOM]]
+- checkout for more info TTDOM
 
 ---
 ## creating a vscode extension which prints the whole codebase on the paper

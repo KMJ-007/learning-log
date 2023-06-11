@@ -1,3 +1,4 @@
+
 2023-01-11
 - learned about inputs, from mouse to keyboard, want to add some kind of physical interaction to my sketch, will figur that out
 

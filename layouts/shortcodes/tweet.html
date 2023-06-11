@@ -1,0 +1,7 @@
+{{- $url := .Get 0 -}}
+{{- $tweetId := $url | replaceRE "https://twitter.com/[a-zA-Z0-9_]+/status/([0-9]+).*" "$1" -}}
+
+<blockquote class="twitter-tweet">
+  <a href="{{ $url }}"></a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
