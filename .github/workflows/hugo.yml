@@ -57,9 +57,6 @@ jobs:
             --minify \
             --theme hugo-book
             
-      - name: Copy images
-        run: cp -r ./content/docs/images public/docs/
-        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
