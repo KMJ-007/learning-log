@@ -58,9 +58,10 @@ jobs:
             --theme hugo-book
 
             
-      - name: Generate PDF
-        run: |
-          pandoc -s -o public/docs/Karan's-Notes.pdf content/*.md
+      - uses: docker://pandoc/latex:2.16.2
+        with:
+          args: --output=public/docs/notes.pdf --resource-path=.:./content:./content/docs/images --toc ${{ env.FILELIST }} .pandoc/metadata_en.txt
+
       - name: Copy images
         run: cp -r ./content/docs/images public/docs/
         
