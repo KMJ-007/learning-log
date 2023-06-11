@@ -1,2 +1,1 @@
-
-hugo server --minify
+hugo server --minify --theme hugo-book
