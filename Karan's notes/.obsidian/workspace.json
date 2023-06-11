@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/maps.md",
+                "file": "templete/tweet.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/maps.md",
+                "file": "templete/tweet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/maps.md",
+                "file": "templete/tweet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/maps.md"
+                "file": "templete/tweet.md"
               }
             }
           }
@@ -156,10 +156,10 @@
   },
   "active": "5fc712a1f1c99f85",
   "lastOpenFiles": [
-    "templete/tweet.md",
     "docs/maps.md",
-    "docs/ideas.md",
+    "templete/tweet.md",
     "templete",
+    "docs/ideas.md",
     "docs/TTDOM.md",
     "readme.md",
     "themes/book/theme.toml",
@@ -200,7 +200,6 @@
     "themes/book/exampleSite/content.en/docs/shortcodes/columns.md",
     "themes/book/exampleSite/content.en/docs/shortcodes/buttons.md",
     "themes/book/exampleSite/content.en/docs/shortcodes/_index.md",
-    "themes/book/exampleSite/content.en/docs/example/collapsed/3rd-level/_index.md",
     "images/watchdog-linux-kernel.png",
     "Untitled.canvas"
   ]
