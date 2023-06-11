@@ -1,12 +1,12 @@
-##### creating a ray tracer for gane engine
+##### building my own  ray tracer 
  - i am going to study computer graphics in the 7th sem, why not create ray tracer and learn more about it
  - learning more about how computer graphics works 
- - https://twitter.com/evannlinn/status/1656872917043478528?s=20
+ - [cool example](https://twitter.com/evannlinn/status/1656872917043478528?s=20)
 - building a game also a good idea
 
+---
 
-
-#### creating B2B sass for manufacturer or hardware guyes who works on scale and have large team and more than one projects at the same time
+##### B2B sass for manufacturer or hardware guyes who works on scale and have large team and more than one projects at the same time
  - hardware shiping of new version of product is not simple as just clicking on release button or fixing patch like we do in the software
  - they need to go through lot of haessel, lot of review, from design to getting prototype, from ordering the parts from supplier, the main issue is the life of the guy who is handling the operations, and he needs to also know the status of other four things or team members
  - a typical hardware projects consist of hardware, electrical, software(simple firmware or android/ios apps ), design
@@ -16,3 +16,9 @@
  - creating one bill of materials and other things which can be created on the past data
 - directly sharing bill of materials to supplier or vendor in one click
 - simillar software which are there but didn't saw in indian market or i haven't researched  enough: [config](https://config.com/)
+
+---
+##### frontend framework/library for learning how DOM and rendering works(in progress)
+- checkout for more info [[TTDOM]]
+
+---
