@@ -8,3 +8,6 @@ to read:
 https://million.dev/blog/virtual-dom
 https://million.dev/blog/behind-the-block
 https://github.com/ged-odoo/blockdom/blob/main/doc/make_your_own_framework/readme.md
+
+https://svelte.dev/blog/svelte-3-rethinking-reactivity
+https://lihautan.com/deep-dive-into-svelte/
