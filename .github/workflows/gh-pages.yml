@@ -35,8 +35,6 @@ jobs:
       - name: Copy images
         run: cp -r ./content/docs/images public/docs/
         
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+      - name: Run Hugo
+        working-directory: exampleSite
+        run: hugo --themesDir ../..
