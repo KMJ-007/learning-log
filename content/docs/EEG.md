@@ -4,13 +4,13 @@ question: basic metric data need ?
 - 1. yes we will need some kind of baseline/thresold for the focous, we will need already working musician to train the data, and compare the result and other accuaracy
 question: can we use existing hardware in this project?
 - 2. like in case existing hardware, VR can catch the EEG, but still it is in the development
-- ![[eeg-vr.png]]
+- ![](../images/eeg-vr.png)
 - like we can use headphone to modify it(idea by nishq)
 - in somekind of sensor or something, from apple watch, we can only get ecg and nuero feedback data, although we found the most compact eeg (https://mentalab.com/mobile-eeg/)
 question:there are many levels to this data. a. we first need to understand what kind of different neuro waves are there b. what can be measured by the present sensors. c. what waves are related to what kind of processes & emotions
 - there are mainly raw data which comes from the electrodes, more the electrodes we have, we get more data, after proccessing it(converting it from analog to digital and removing the noise and amplifying), after it we get alpha, beta, gamma and thetha, this are stages, jo frequency ke hisab se fiter hota hai 
 - in mesuring, different placment have different kind of data attach to it
-- for our project following placments are useful for us![[eeg-electordes position.png]]
+- for our project following placments are useful for us![](../images/eeg-electordes%20position.png)
 Abstract:
 - we are trying to create music accoding to whatever the person is thinking or feeling at the moment, like if he is not feeling happy then he can't generate happy music, what he thinks or feels it is transfomed in to music
 - till date, we have figured out what placments of electroeds will be useful for us, we will in the basic one need 4 channel headset, and for better data and other accuracy 8-channel will be bset, in 4-channel the muse headset fits the best, for 8-channel one emotive headset is the best, this is on the based on the other people have used in their research, the muse one covers the most electrodes placments we wants, emotive one also does that, on the custome side of headset, we can go for the eeg cap, which gives freedome of using any electrodes placment we want, but it is expensive but highly customisable, and it has learning curve comapre to other already ready to use headset availble headset, so i think we should go with ready made headse for the research!
@@ -64,7 +64,7 @@ It's also worth noting that studies have found that different emotions are assoc
 - found the video which explains our thing [https://www.youtube.com/watch?v=JyiXQgj_Nfk&t=15s](https://www.youtube.com/watch?v=JyiXQgj_Nfk&t=15s "https://www.youtube.com/watch?v=JyiXQgj_Nfk&t=15s")
 - brain disco: [https://neurowear.com/braindisco/](https://neurowear.com/braindisco/ "https://neurowear.com/braindisco/")
 - this thing is reverse, they are playing music on subject, and using eeg signals, they are trying to recreate the same melody using eeg , [https://www.frontiersin.org/articles/10.3389/fnins.2021.673401/full?curius=3](https://www.frontiersin.org/articles/10.3389/fnins.2021.673401/full?curius=3 "https://www.frontiersin.org/articles/10.3389/fnins.2021.673401/full?curius=3")
-- ![[music to eeg.png]]
+- ![](../images/music%20to%20eeg.png)
 - basic understanding of brain waves: [https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain?s=r&curius=2003,1346](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain?s=r&curius=2003,1346 "https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain?s=r&curius=2003,1346") explains how brain wave works
 - 
 **link i need to explore more**:

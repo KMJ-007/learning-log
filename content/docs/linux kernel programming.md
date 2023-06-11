@@ -2,8 +2,7 @@
 2023-05-08
 
 HAL(hardware abstraction layer)
-
-![[kernel.png]]
+![](../images/kernel.png)
 
 passport office example was good for the use of kernel 
 
@@ -19,7 +18,7 @@ argo project
 https://argoproj.github.io/
 
 arm based architecture
-![[IMG_5354.heic]]
+![](../images/IMG_5354.png)
 
 
 
@@ -42,8 +41,8 @@ for removing
 
 rmmode
 
-![[linux-kernel-qa.png]]
-![[linux-kernel-qa-2.png]]
+![](../images/linux-kernel-qa.png)
+![](../images/linux-kernel-qa-2.png)
 
 
 
@@ -56,7 +55,7 @@ TI-A15 MPU board
 
 printk is a C function from the Linux kernel interface that prints messages to the kernel log. It accepts a string parameter called the format string, which specifies a method for rendering an arbitrary number of varied data type parameter into a string. The string is then printed to the kernel log.
 
-![[watchdog-linux-kernel.png]]
+![](../images/watchdog-linux-kernel.png)
 
 question:
 
