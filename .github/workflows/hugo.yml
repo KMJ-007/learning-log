@@ -58,7 +58,7 @@ jobs:
             --theme hugo-book
             
       - name: Copy images
-        run: cp -r ./"Karan's notes"/images public/images
+        run: cp -r ./"Karan's notes"/images public/docs
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
