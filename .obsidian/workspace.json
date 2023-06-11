@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ideas.txt.md",
+                "file": "docs/ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ideas.txt.md",
+                "file": "docs/ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/ideas.txt.md",
+                "file": "docs/ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/ideas.txt.md"
+                "file": "docs/ideas.md"
               }
             }
           }
@@ -158,7 +158,7 @@
   "lastOpenFiles": [
     "docs/index.md",
     "README.md",
-    "docs/ideas.txt.md",
+    "docs/ideas.md",
     "docs/EEG.md",
     "docs/templete/dropdown.md",
     "docs/images/watchdog-linux-kernel.png",
