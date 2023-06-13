@@ -1,6 +1,6 @@
 
 
-live class by experts(apni college ke bande jinki hai bandiya):
+live class by experts(apni college ke bande jinki hai bandiya, kuch girls bhi thi discussion mai):
 
 date:2023-06-13
 
