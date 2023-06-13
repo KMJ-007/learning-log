@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karan's notes/_index.md",
+                "file": "Karan's notes/docs/bandi kese pataye.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Karan's notes/_index.md",
+            "file": "Karan's notes/docs/bandi kese pataye.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Karan's notes/_index.md",
+            "file": "Karan's notes/docs/bandi kese pataye.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Karan's notes/_index.md"
+            "file": "Karan's notes/docs/bandi kese pataye.md"
           }
         }
       }
@@ -133,14 +133,18 @@
   },
   "active": "2f461d715ba3cb5d",
   "lastOpenFiles": [
+    "Karan's notes/_index.md",
+    "Karan's notes/images/hello-beta.png",
+    "Karan's notes/docs/bandi kese pataye.md",
+    "/Karan's notes/images/hello-beta.png",
+    "/Karan's notes/docs/bandi kese pataye.md",
+    "/themes/hugo-book",
     "Karan's notes/docs/sudoku.md",
     "Karan's notes/docs/maps.md",
     "/Karan's notes/docs/sudoku.md",
     "/Karan's notes/docs/maps.md",
     "/Karan's notes/docs/TTDOM.md",
-    "/themes/hugo-book",
     "Karan's notes/docs/local first software.md",
-    "Karan's notes/_index.md",
     "Karan's notes/docs/_index.md",
     "Karan's notes/docs/TTDOM.md"
   ]

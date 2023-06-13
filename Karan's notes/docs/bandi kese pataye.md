@@ -24,6 +24,7 @@ live class by experts(apni college ke bande jinki hai bandiya):
 - find happiness in small things
 - it is most important part of your world but not your entire world
 - baate karne aana chayie
+- luck is also involved in here(jab jab jo jo hona hai tab tab so so hota hai)
 ---
 pros:
 - aapka pura transformation ho jata hai
