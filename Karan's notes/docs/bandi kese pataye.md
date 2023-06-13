@@ -29,5 +29,5 @@ pros:
 - healthy mental health
 cons:
 - dont over abuse(limit mai raho)
-  
-  ![[hello beta.png]]
+
+![](../images/hello-beta.png)  

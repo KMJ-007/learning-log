@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c17a34b46faa7dbb",
+        "id": "c048a009c2fbb930",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc712a1f1c99f85",
+            "id": "23804c38d40396db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,11 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc712a1f1c99f85",
+  "active": "45128efc37bac30d",
   "lastOpenFiles": [
-    "docs/sudoku.md",
-    "images/hello beta.png",
+    "docs/EEG.md",
     "docs/bandi kese pataye.md",
+    "docs/sudoku.md",
+    "images/hello-beta.png",
     "docs/maps.md",
     "templete/tweet.md",
     "templete",
