@@ -24,11 +24,12 @@ live class by experts(apni college ke bande jinki hai bandiya):
 - find happiness in small things
 - it is most important part of your world but not your entire world
 - baate karne aana chayie
+---
 pros:
 - aapka pura transformation ho jata hai
 - boy mai se men ban jate ho
 - moral support
-- healthy mental health
+- healthy mental health ---
 cons:
 - dont over abuse(limit mai raho)
 
