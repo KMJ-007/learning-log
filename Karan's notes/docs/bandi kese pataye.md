@@ -22,6 +22,7 @@ live class by experts(sohma,nishq, maulik):
 - wrong time, right person, right time, wrong person
 - find happiness in small things
 - it is most important part of your world but not your entire world
+- baate karne aana chayie
 pros:
 - aapka pura transformation ho jata hai
 - boy mai se men ban jate ho
