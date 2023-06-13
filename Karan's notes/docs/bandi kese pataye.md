@@ -1,5 +1,5 @@
 2023-06-13
-live class by experts(soham,nishq, maulik):
+live class by experts(apni college ke bande jinki hai bandiya):
 
 - never give up (but no means no)(simp nahi lagna chayie)
 - pasand ho to kabhi nahi bolne ka nahi to bhav nahi milega, kuto ki tarah ghumau ki(quite similar to deadlock but need mutual understanding)
