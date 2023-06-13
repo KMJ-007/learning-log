@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sudoku.md",
+                "file": "docs/bandi kese pataye.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/sudoku.md",
+                "file": "docs/bandi kese pataye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/sudoku.md",
+                "file": "docs/bandi kese pataye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/sudoku.md"
+                "file": "docs/bandi kese pataye.md"
               }
             }
           }
@@ -154,10 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45128efc37bac30d",
+  "active": "5fc712a1f1c99f85",
   "lastOpenFiles": [
-    "docs/maps.md",
     "docs/sudoku.md",
+    "images/hello beta.png",
+    "docs/bandi kese pataye.md",
+    "docs/maps.md",
     "templete/tweet.md",
     "templete",
     "docs/ideas.md",
@@ -199,9 +201,6 @@
     "themes/book/exampleSite/content.en/docs/shortcodes/expand.md",
     "themes/book/exampleSite/content.en/docs/shortcodes/details.md",
     "themes/book/exampleSite/content.en/docs/shortcodes/columns.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/buttons.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/_index.md",
-    "images/watchdog-linux-kernel.png",
     "Untitled.canvas"
   ]
 }
