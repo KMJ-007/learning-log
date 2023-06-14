@@ -1,0 +1,5 @@
+{{- $currentPage := .Page -}}
+{{- $pageContext := .Page.Site.GetPageContext $currentPage -}}
+{{- range $page, $references := $pageContext.BackLinks -}}
+    <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
+{{- end -}}

@@ -1,0 +1,9 @@
+{{- $pageContext := .Page.Site.GetPageContext .Page -}}
+{{- range $match := findRE "/\\[\\[.*?\\]\\]/" .Content -}}
+    {{- $link := $match | replaceRE "\\[\\[(.*?)\\]\\]" "$1" -}}
+    {{- $targetPage := $pageContext.GetPage $link -}}
+    {{- if $targetPage -}}
+        {{- $linkURL := $targetPage.RelPermalink -}}
+        {{- .Content = replaceRE .Content "\\[\\[$link\\]\\]" "<a href=\"$linkURL\">$link</a>" -}}
+    {{- end -}}
+{{- end -}}
