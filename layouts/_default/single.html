@@ -1,3 +1,0 @@
-{{ $content := .Content }}
-{{ $processedContent := replaceRE `!\[(.*?)\]\((.*?)\)` $content "[![$1]({{< relref \"$2\" >}})]" }}
-{{ $processedContent }}
