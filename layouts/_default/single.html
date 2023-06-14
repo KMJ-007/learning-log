@@ -1,10 +1,3 @@
-{{- $pageContext := .Page.Site.GetPageContext .Page -}}
-{{- range $match := findRE "[\\[][\\[].*?[\\]][\\]]" .Content -}}
-    {{- $link := $match | plainify | replaceRE "[\\[][\\[](.*?)[\\]][\\]]" "$1" -}}
-    {{- $targetPage := $pageContext.GetPage $link -}}
-    {{- if $targetPage -}}
-        {{- $linkURL := $targetPage.RelPermalink -}}
-        {{- $replacedLink := (replaceRE $match "[\\[][\\[](.*)[\\]][\\]]" "<a href=\"$linkURL\">$1</a>") -}}
-        {{- .Content = replaceRE .Content (printf "%s" $match) (printf "%s" $replacedLink) -}}
-    {{- end -}}
-{{- end -}}
+{{ $content := .Content }}
+{{ $processedContent := replaceRE `!\[(.*?)\]\((.*?)\)` $content "[![$1]({{< relref \"$2\" >}})]" }}
+{{ $processedContent }}
