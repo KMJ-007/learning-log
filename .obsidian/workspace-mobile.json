@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Approach to Side projects.md",
+                "file": "Karan's notes/docs/Approach to Side projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Approach to Side projects.md",
+            "file": "Karan's notes/docs/Approach to Side projects.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Approach to Side projects.md",
+            "file": "Karan's notes/docs/Approach to Side projects.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Approach to Side projects.md"
+            "file": "Karan's notes/docs/Approach to Side projects.md"
           }
         }
       }
@@ -146,13 +146,14 @@
   },
   "active": "3dc2afd24ed4c096",
   "lastOpenFiles": [
+    "/Karan's notes/docs/bandi kese pataye.md",
+    "/Karan's notes/docs/ideas.md",
+    "/themes/hugo-book",
     "Karan's notes/docs/bandi kese pataye.md",
-    "Approach to Side projects.md",
+    "Karan's notes/docs/Approach to Side projects.md",
     "Karan's notes/_index.md",
     "Karan's notes/images/hello-beta.png",
     "/Karan's notes/images/hello-beta.png",
-    "/Karan's notes/docs/bandi kese pataye.md",
-    "/themes/hugo-book",
     "Karan's notes/docs/sudoku.md",
     "Karan's notes/docs/maps.md",
     "/Karan's notes/docs/sudoku.md",
