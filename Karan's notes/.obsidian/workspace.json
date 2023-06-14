@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65ca1e381422d712",
+        "id": "43fbc7a20ead4dae",
         "type": "tabs",
         "children": [
           {
-            "id": "93fb43bb393f50f8",
+            "id": "d6d531ed16c9d57d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/bandi kese pataye.md",
+                "file": "docs/ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/bandi kese pataye.md",
+                "file": "docs/ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/bandi kese pataye.md",
+                "file": "docs/ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/bandi kese pataye.md"
+                "file": "docs/ideas.md"
               }
             }
           }
@@ -154,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93fb43bb393f50f8",
+  "active": "d6d531ed16c9d57d",
   "lastOpenFiles": [
+    "docs/TTDOM.md",
     "docs/bandi kese pataye.md",
     "docs/EEG.md",
     "docs/sudoku.md",
@@ -164,7 +165,6 @@
     "templete/tweet.md",
     "templete",
     "docs/ideas.md",
-    "docs/TTDOM.md",
     "readme.md",
     "themes/book/theme.toml",
     "themes/book/static/svg/toc.svg",
