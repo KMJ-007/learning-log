@@ -1,8 +1,11 @@
-2023-06-13
-live class by experts(apni college ke bande jinki hai bandiya):
+
+
+live class by experts(apni college ke bande jinki hai bandiya, kuch girls bhi thi discussion mai):
+
+date:2023-06-13
 
 - never give up (but no means no)(simp nahi lagna chayie)
-- pasand ho to kabhi nahi bolne ka nahi to bhav nahi milega, kuto ki tarah ghumau ki(quite similar to deadlock but need mutual understanding)
+- pasand ho to kabhi nahi bolne ka nahi to bhav nahi milega(quite similar to deadlock but need mutual understanding)
 - pocket perfume rakho hamesa(100 ml walu jaldi thay)
 - bade wale perfume se options jyada milte hai
 - date ke liye direct na puche
