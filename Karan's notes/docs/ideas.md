@@ -35,4 +35,4 @@
 - recently replit(really love what they are doing) released this tweet, which is somewhat i was also thinking
 - {{<tweet "https://twitter.com/Replit/status/1664724287473827842?s=20">}}
 - want to play with this idea, and replit is good, i use it for quick experiments where i don't need to setup environment, but i still use vscode, i need this kind of thing in my vscode
-- i want to build similar
+- i want to build similarx

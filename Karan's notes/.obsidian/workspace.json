@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43fbc7a20ead4dae",
+        "id": "38d49439ed4e0b00",
         "type": "tabs",
         "children": [
           {
-            "id": "d6d531ed16c9d57d",
+            "id": "a81e141422ea74e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ideas.md",
+                "file": "docs/TTDOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ideas.md",
+                "file": "docs/TTDOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/ideas.md",
+                "file": "docs/TTDOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/ideas.md"
+                "file": "docs/TTDOM.md"
               }
             }
           }
@@ -154,17 +154,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6d531ed16c9d57d",
+  "active": "45128efc37bac30d",
   "lastOpenFiles": [
+    "docs/design.md",
     "docs/TTDOM.md",
-    "docs/bandi kese pataye.md",
+    "images/fetable.png",
+    "images/www.png",
+    "virtual dom.md",
     "docs/EEG.md",
+    "images/danny's-homepage.png",
+    "docs/operating system",
+    "docs/ideas.md",
+    "docs/bandi kese pataye.md",
     "docs/sudoku.md",
     "images/hello-beta.png",
     "docs/maps.md",
     "templete/tweet.md",
     "templete",
-    "docs/ideas.md",
     "readme.md",
     "themes/book/theme.toml",
     "themes/book/static/svg/toc.svg",
@@ -179,11 +185,7 @@
     "themes/book/static/katex/fonts/KaTeX_Typewriter-Regular.woff2",
     "themes/book/static/katex/fonts/KaTeX_Typewriter-Regular.woff",
     "themes/book/static/katex/fonts/KaTeX_Typewriter-Regular.ttf",
-    "themes/book/static/katex/fonts/KaTeX_Size4-Regular.woff2",
     "themes/book/static/favicon.svg",
-    "themes/book/static/favicon.png",
-    "themes/book/images/tn.png",
-    "themes/book/images/screenshot.png",
     "themes/book/exampleSite/content.zh/_index.md",
     "themes/book/exampleSite/content.ru/_index.md",
     "themes/book/exampleSite/content.en/posts/migrate-from-jekyll.md",
@@ -200,8 +202,6 @@
     "themes/book/exampleSite/content.en/docs/shortcodes/katex.md",
     "themes/book/exampleSite/content.en/docs/shortcodes/hints.md",
     "themes/book/exampleSite/content.en/docs/shortcodes/expand.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/details.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/columns.md",
     "Untitled.canvas"
   ]
 }
