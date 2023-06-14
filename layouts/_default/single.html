@@ -4,7 +4,7 @@
     {{- $targetPage := $pageContext.GetPage $link -}}
     {{- if $targetPage -}}
         {{- $linkURL := $targetPage.RelPermalink -}}
-        {{- $replacedLink := replaceRE $match "[\\[][\\[](.*)[\\]][\\]]" "<a href=\"$linkURL\">$1</a>" -}}
+        {{- $replacedLink := (replaceRE $match "[\\[][\\[](.*)[\\]][\\]]" "<a href=\"$linkURL\">$1</a>") -}}
         {{- .Content = replaceRE .Content (printf "%s" $match) (printf "%s" $replacedLink) -}}
     {{- end -}}
 {{- end -}}
