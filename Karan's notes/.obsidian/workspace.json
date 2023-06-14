@@ -154,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45128efc37bac30d",
+  "active": "a81e141422ea74e5",
   "lastOpenFiles": [
+    "docs/Approach to Side projects.md",
     "docs/design.md",
     "docs/TTDOM.md",
     "images/fetable.png",
@@ -201,7 +202,6 @@
     "themes/book/exampleSite/content.en/docs/shortcodes/mermaid.md",
     "themes/book/exampleSite/content.en/docs/shortcodes/katex.md",
     "themes/book/exampleSite/content.en/docs/shortcodes/hints.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/expand.md",
     "Untitled.canvas"
   ]
 }
