@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38d49439ed4e0b00",
+        "id": "154a8db687841aa5",
         "type": "tabs",
         "children": [
           {
-            "id": "a81e141422ea74e5",
+            "id": "6f20a1a379f82103",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/TTDOM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/TTDOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/TTDOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/TTDOM.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,22 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a81e141422ea74e5",
+  "active": "6f20a1a379f82103",
   "lastOpenFiles": [
+    "docs/operating system/_index.md",
+    "docs/machine learning/_index.md",
+    "docs/_index.md",
+    "docs/creative coding.md",
     "docs/Approach to Side projects.md",
+    "docs/EEG.md",
     "docs/design.md",
+    "docs/bandi kese pataye.md",
+    "docs/maps.md",
+    "docs/local first software.md",
+    "docs/linux kernel programming.md",
+    "docs/ideas.md",
+    "docs/Graphs.md",
+    "images/danny's-homepage.png",
     "docs/TTDOM.md",
+    "docs/machine learning",
     "images/fetable.png",
     "images/www.png",
     "virtual dom.md",
-    "docs/EEG.md",
-    "images/danny's-homepage.png",
     "docs/operating system",
-    "docs/ideas.md",
-    "docs/bandi kese pataye.md",
     "docs/sudoku.md",
     "images/hello-beta.png",
-    "docs/maps.md",
     "templete/tweet.md",
     "templete",
     "readme.md",
@@ -185,7 +185,6 @@
     "themes/book/static/katex/katex.min.css",
     "themes/book/static/katex/fonts/KaTeX_Typewriter-Regular.woff2",
     "themes/book/static/katex/fonts/KaTeX_Typewriter-Regular.woff",
-    "themes/book/static/katex/fonts/KaTeX_Typewriter-Regular.ttf",
     "themes/book/static/favicon.svg",
     "themes/book/exampleSite/content.zh/_index.md",
     "themes/book/exampleSite/content.ru/_index.md",
@@ -195,13 +194,6 @@
     "themes/book/exampleSite/content.en/posts/creating-a-new-theme.md",
     "themes/book/exampleSite/content.en/posts/_index.md",
     "themes/book/exampleSite/content.en/menu/index.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/tabs.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/section/second-page.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/section/first-page.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/section/_index.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/mermaid.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/katex.md",
-    "themes/book/exampleSite/content.en/docs/shortcodes/hints.md",
     "Untitled.canvas"
   ]
 }
