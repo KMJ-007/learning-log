@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/TTDOM.md",
+                "file": "docs/design.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/TTDOM.md",
+                "file": "docs/design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/TTDOM.md",
+                "file": "docs/design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/TTDOM.md"
+                "file": "docs/design.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "6f20a1a379f82103",
   "lastOpenFiles": [
-    "docs/design.md",
     "docs/TTDOM.md",
+    "config.yml",
+    "docs/design.md",
     "docs/desgin.md",
     "docs/operating system/_index.md",
     "docs/machine learning/_index.md",
@@ -193,7 +194,6 @@
     "themes/book/static/katex/katex.min.js",
     "themes/book/static/katex/katex.min.css",
     "themes/book/static/katex/fonts/KaTeX_Typewriter-Regular.woff2",
-    "themes/book/static/katex/fonts/KaTeX_Typewriter-Regular.woff",
     "themes/book/static/favicon.svg",
     "themes/book/exampleSite/content.zh/_index.md",
     "themes/book/exampleSite/content.ru/_index.md",
@@ -201,7 +201,6 @@
     "themes/book/exampleSite/content.en/posts/hugoisforlovers.md",
     "themes/book/exampleSite/content.en/posts/goisforlovers.md",
     "themes/book/exampleSite/content.en/posts/creating-a-new-theme.md",
-    "themes/book/exampleSite/content.en/posts/_index.md",
     "Untitled.canvas"
   ]
 }

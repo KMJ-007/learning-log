@@ -1,0 +1,27 @@
+baseURL: 'https://kmj-007.github.io/learning-log/'
+languageCode: 'en-us'
+title: "Karan's Notes"
+
+enableGitInfo: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+
+
+languages:
+  en:
+    languageName: 'English'
+    contentDir: "Karan's notes"
+    weight: 1
+
+params:
+  BookRepo: 'https://github.com/KMJ-007/learning-log'
+  BookEditPath: 'edit/main'
+  BookTheme: 'light'
+  enableLinkPreview: true
+  BookServiceWorker: true
+  bookCollapseSection: false
