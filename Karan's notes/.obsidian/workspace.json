@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a353f6e4928684d1",
+        "id": "d3afea77cc0f0086",
         "type": "tabs",
         "children": [
           {
-            "id": "f4f561d6c06b00f8",
+            "id": "e1a997df70d7a449",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "5c305bb5d4ed4471",
@@ -155,10 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4f561d6c06b00f8",
+  "active": "e1a997df70d7a449",
   "lastOpenFiles": [
-    "docs/ideas.md",
+    "docs/EEG.md",
     "docs/TTDOM.md",
+    "images/virtualdom.png",
+    "docs/ideas.md",
     "docs/virtual dom.md",
     "docs/_index.md",
     "docs/machine learning/_index.md",
@@ -171,7 +172,6 @@
     "docs/operating system/_index.md",
     "docs/creative coding.md",
     "docs/Approach to Side projects.md",
-    "docs/EEG.md",
     "docs/bandi kese pataye.md",
     "docs/maps.md",
     "docs/local first software.md",
@@ -198,11 +198,9 @@
     "themes/book/static/katex/katex.min.js",
     "themes/book/static/katex/katex.min.css",
     "themes/book/static/katex/fonts/KaTeX_Typewriter-Regular.woff2",
-    "themes/book/static/favicon.svg",
     "themes/book/exampleSite/content.zh/_index.md",
     "themes/book/exampleSite/content.ru/_index.md",
     "themes/book/exampleSite/content.en/posts/migrate-from-jekyll.md",
-    "themes/book/exampleSite/content.en/posts/hugoisforlovers.md",
     "Untitled.canvas"
   ]
 }
