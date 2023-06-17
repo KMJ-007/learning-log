@@ -1,17 +1,18 @@
-The main idea behind this side project was to learn more about how virtual dom works, and how frameworks like React, vue does the magic behind the scene ?
+The virtual DOM was created to address performance issues caused by frequent manipulation of the real DOM. It is a lightweight, in-memory representation of the real DOM, which can be later used as reference to update the actual web page.
 
-2023-06-15:
+When a component is rendered, the virtual DOM calculates the difference between the new state and the previous state (a process called "diffing") and makes the minimal set of changes to the real DOM to bring it in sync with the updated virtual DOM (a process called "reconciliation").
 
-let's start from basic
+but the issue with virtual dom is, if diffing depends on the size of tree, which increases the complexity for big component tree, where only few things are changed but it will compare the whole tree
 
-- imagining there are no frameworks, nothing exist, we are going in way back, when just html was invented and WWW was written and after few years css was invented ![](../images/www.png)
-- and tbh, sites which were made using just these combos were so dope, i really like the design and aesthetics of it
-![](../images/danny's-homepage.png)
+after virtual dom is overhead movement, new framework came, which don't use virtual dom at all, examples svelte, solid js..., svelte uses dirty checking(), and solid uses same but, it only update very part which is changed in dom, they use direct dom manipulation,
 
-- this is great table which shows how all things changed
-  ![](../images/fetable.png)
+how dirty checking works:
 
-[design](docs/design) is really great, the evolution is worth looking, i still think lot of innovation or peak of things were done in early 90 and 20, with limited resources, from ray tracing, doom and many more things,  they pushed boundary really far, compared to today where we have this many resources and power 
+1. The framework keeps track of the initial state of the numbers.
+2. Whenever an action, like clicking a button, occurs, the framework checks if any of the numbers have changed since the last time it looked.
+3. If a number has changed, the framework updates only that specific part of the screen, showing the new value.
+4. If no numbers have changed, the framework doesn't do anything, saving time and resources.
+
 
 
 
