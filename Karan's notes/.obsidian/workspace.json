@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/database/pouchdb <-> couchdb.md",
+                "file": "docs/ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/database/pouchdb <-> couchdb.md",
+                "file": "docs/ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/database/pouchdb <-> couchdb.md",
+                "file": "docs/ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/database/pouchdb <-> couchdb.md"
+                "file": "docs/ideas.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "9d20cab80cbe2ea9",
   "lastOpenFiles": [
-    "docs/database/love hate with typeorm.md",
     "docs/database/pouchdb <-> couchdb.md",
+    "docs/database/love hate with typeorm.md",
     "docs/database/multitenant architecture.md",
     "docs/art.md",
     "docs/database",
