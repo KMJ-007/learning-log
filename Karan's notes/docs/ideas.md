@@ -38,7 +38,7 @@
 - i want to build similarx
 
 ---
-## browser history visualise as adventure and rabithole
+## browser history visualise as adventure and rabbithole
 - it happens with me how did i got here, i clicked link from that site to this to that
 - if you have ever used git or git lens you will get the idea of what i am talking about, 
 - current browser history sucks, it looks vert boring, it doesn't show how we started and don't give more info
@@ -46,3 +46,4 @@
 - some kind of extension or something which can make my history more useful to me, just then being there
 - https://www.freecodecamp.org/news/browserhistory-2abad38022b1/
 - want to work on one of the prototype
+- imagine how can we use LLM in this
