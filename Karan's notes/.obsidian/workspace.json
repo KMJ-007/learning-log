@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bec382e81a2488e2",
+        "id": "18cbee5f549ff504",
         "type": "tabs",
         "children": [
           {
-            "id": "f0924bb38f553973",
+            "id": "bd8544173dfd9373",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "d46170b662082899",
+            "id": "42cfe5b194dd33eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/database/multitenant architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a01483b829cd963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/database/love hate with typeorm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d20cab80cbe2ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/ideas.md",
+                "file": "docs/re-consuming every year.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ideas.md",
+                "file": "docs/re-consuming every year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/ideas.md",
+                "file": "docs/re-consuming every year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/ideas.md"
+                "file": "docs/re-consuming every year.md"
               }
             }
           }
@@ -191,33 +167,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d20cab80cbe2ea9",
+  "active": "42cfe5b194dd33eb",
   "lastOpenFiles": [
-    "docs/database/pouchdb <-> couchdb.md",
-    "docs/database/love hate with typeorm.md",
-    "docs/database/multitenant architecture.md",
     "docs/art.md",
+    "docs/re-consuming every year.md",
+    "docs/maps.md",
+    "docs/sudoku.md",
+    "docs/Typescript.md",
+    "docs/operating system/_index.md",
+    "docs/EEG.md",
+    "images/computer_under_the_hood.png",
+    "docs/database/multitenant architecture.md",
+    "docs/database/love hate with typeorm.md",
+    "docs/ideas.md",
+    "docs/database/pouchdb <-> couchdb.md",
     "docs/database",
     "docs/Graphs.md",
     "docs/creative coding.md",
     "docs/bandi kese pataye.md",
     "docs/Approach to Side projects.md",
     "docs/_index.md",
-    "docs/operating system/_index.md",
     "docs/machine learning/_index.md",
     "docs/TTDOM.md",
     "images/blockdom.png",
     "images/rehydration.png",
-    "docs/EEG.md",
     "images/virtualdom.png",
-    "docs/ideas.md",
     "docs/virtual dom.md",
     "menu/index.md",
     "docs/design.md",
     "_index.md",
     "config.yml",
     "docs/desgin.md",
-    "docs/maps.md",
     "docs/local first software.md",
     "docs/linux kernel programming.md",
     "images/danny's-homepage.png",
@@ -225,20 +205,16 @@
     "images/fetable.png",
     "images/www.png",
     "docs/operating system",
-    "docs/sudoku.md",
     "images/hello-beta.png",
     "templete/tweet.md",
     "templete",
-    "readme.md",
     "themes/book/theme.toml",
     "themes/book/static/svg/toc.svg",
     "themes/book/static/svg/translate.svg",
-    "themes/book/static/svg/menu.svg",
     "themes/book/static/svg",
     "themes/book/static/mermaid.min.js",
     "themes/book/static/katex/katex.min.js",
     "themes/book/static/katex/katex.min.css",
-    "themes/book/exampleSite/content.zh/_index.md",
     "Untitled.canvas"
   ]
 }
