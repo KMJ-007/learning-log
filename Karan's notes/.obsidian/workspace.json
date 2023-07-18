@@ -169,8 +169,9 @@
   },
   "active": "42cfe5b194dd33eb",
   "lastOpenFiles": [
-    "docs/art.md",
+    "docs/nix.md",
     "docs/re-consuming every year.md",
+    "docs/art.md",
     "docs/maps.md",
     "docs/sudoku.md",
     "docs/Typescript.md",
@@ -206,7 +207,6 @@
     "images/www.png",
     "docs/operating system",
     "images/hello-beta.png",
-    "templete/tweet.md",
     "templete",
     "themes/book/theme.toml",
     "themes/book/static/svg/toc.svg",
