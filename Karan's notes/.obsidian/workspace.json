@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/startup.md",
+                "file": "docs/re-consuming every year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/startup.md",
+                "file": "docs/re-consuming every year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/startup.md"
+                "file": "docs/re-consuming every year.md"
               }
             }
           }
@@ -179,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54a79ee2a37b309d",
+  "active": "42cfe5b194dd33eb",
   "lastOpenFiles": [
-    "docs/re-consuming every year.md",
     "docs/startup.md",
+    "docs/re-consuming every year.md",
     "docs/nix.md",
     "docs/art.md",
     "docs/maps.md",
