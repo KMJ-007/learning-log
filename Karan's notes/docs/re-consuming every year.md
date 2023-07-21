@@ -4,3 +4,4 @@ Things which i consume every year:
 - http://www.catb.org/~esr/faqs/hacker-howto.html
 - https://www.youtube.com/watch?v=UF8uR6Z6KLc
 - https://youtu.be/zuQYlgL73o0
+- https://www.youtube.com/playlist?list=PLFr_jkwUp0his35ff0LvPrI_U2oBYdL3b
