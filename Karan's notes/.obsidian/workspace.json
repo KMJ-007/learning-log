@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/re-consuming every year.md",
+                "file": "docs/database/multitenant architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0fe6d21dba2f1ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cors.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/re-consuming every year.md",
+                "file": "cors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/re-consuming every year.md",
+                "file": "cors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/re-consuming every year.md"
+                "file": "cors.md"
               }
             }
           }
@@ -191,11 +203,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42cfe5b194dd33eb",
+  "active": "e0fe6d21dba2f1ac",
   "lastOpenFiles": [
+    "docs/database/multitenant architecture.md",
+    "cors.md",
+    "docs/re-consuming every year.md",
     "docs/caching and syncing.md",
     "docs/art.md",
-    "docs/re-consuming every year.md",
     "docs/startup.md",
     "docs/nix.md",
     "docs/maps.md",
@@ -204,7 +218,6 @@
     "docs/operating system/_index.md",
     "docs/EEG.md",
     "images/computer_under_the_hood.png",
-    "docs/database/multitenant architecture.md",
     "docs/database/love hate with typeorm.md",
     "docs/ideas.md",
     "docs/database/pouchdb <-> couchdb.md",
@@ -224,7 +237,6 @@
     "docs/design.md",
     "_index.md",
     "config.yml",
-    "docs/desgin.md",
     "images/danny's-homepage.png",
     "docs/machine learning",
     "images/fetable.png",
