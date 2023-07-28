@@ -6,3 +6,4 @@ Things which i consume every year:
 - https://youtu.be/zuQYlgL73o0
 - https://www.youtube.com/playlist?list=PLFr_jkwUp0his35ff0LvPrI_U2oBYdL3b
 - https://boz.com/articles/be-kind
+- https://boz.com/

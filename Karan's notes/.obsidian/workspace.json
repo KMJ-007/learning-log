@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "86391e840470eede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/failure resume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "54a79ee2a37b309d",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/re-consuming every year.md",
+                "file": "docs/failure resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/re-consuming every year.md",
+                "file": "docs/failure resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/re-consuming every year.md"
+                "file": "docs/failure resume.md"
               }
             }
           }
@@ -203,11 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0fe6d21dba2f1ac",
+  "active": "86391e840470eede",
   "lastOpenFiles": [
+    "docs/re-consuming every year.md",
+    "docs/failure resume.md",
     "cors.md",
     "docs/database/multitenant architecture.md",
-    "docs/re-consuming every year.md",
     "docs/caching and syncing.md",
     "docs/art.md",
     "docs/startup.md",
@@ -235,7 +248,6 @@
     "docs/virtual dom.md",
     "menu/index.md",
     "docs/design.md",
-    "_index.md",
     "config.yml",
     "images/danny's-homepage.png",
     "docs/machine learning",
