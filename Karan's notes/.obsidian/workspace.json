@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lucy-browser.md",
+                "file": "docs/re-consuming every year.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lucy-browser.md",
+                "file": "docs/re-consuming every year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lucy-browser.md",
+                "file": "docs/re-consuming every year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lucy-browser.md"
+                "file": "docs/re-consuming every year.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "3c8ac07f08702de2",
   "lastOpenFiles": [
+    "docs/nix.md",
     "docs/lucy-browser.md",
     "docs/startup.md",
     "docs/art.md",
@@ -164,7 +165,6 @@
     "docs/re-consuming every year.md",
     "docs/failure resume.md",
     "cors.md",
-    "docs/nix.md",
     "docs/maps.md",
     "docs/sudoku.md",
     "docs/Typescript.md",
